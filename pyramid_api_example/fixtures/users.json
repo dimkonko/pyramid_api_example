@@ -1,0 +1,9 @@
+{
+  "1": {
+    "user_sid": 1,
+    "first_name": "John",
+    "last_name": "Travolta",
+    "email": "j.travolta@email.example.com",
+    "dob": "1990-27-10"
+  }
+}
